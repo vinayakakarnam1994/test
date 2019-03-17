@@ -1,0 +1,65 @@
+
+ h1 {
+font-size: 62;
+font-family: 'montserrat';
+font-weight:bold;
+font-style: italic;
+line-height: 20px;
+text-align: center;
+border-bottom: 1px solid rgb(100,200,100);
+border: 1px dashed grey;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 8px;
+padding-bottom: 8px;
+margin: 8px;
+border-radius: 64px;
+border-color: blue;
+
+}
+p{
+  text-align: justify;
+}
+@media screen and (max-width: 640px) {
+h1 {
+text-align: left;
+}
+}
+@font-face {
+font-family: 'montserrat';
+src: url('/Users/vinayakakarnam/Downloads/montserrat/Montserrat')
+format('otf');
+}
+@media screen and (max-width: 390px) {
+p {
+text-align: justify;
+border-bottom: 8px;
+}
+@media screen and (min-width: 400px) {
+p {
+text-align: justify;
+margin-bottom: 8px;
+border-bottom: 8px;
+}
+}
+
+@media screen and (max-width: 640px) {
+h1 {
+text-align: center;
+border-bottom: 8px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 2px;
+padding-bottom: 2px;
+
+}
+@media screen and (min-width: 360px) {
+h1 {
+  text-align: center;
+  border-bottom: 8px;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+}

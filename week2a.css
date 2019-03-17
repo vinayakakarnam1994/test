@@ -1,0 +1,38 @@
+h1 {
+ 
+  letter-spacing: 15px;
+  font-size: 32;
+  font-family: 'montserrat';
+  font-weight:bold;
+font-style: italic;
+  line-height: 20px;
+text-align: center;
+border-bottom: 2px solid rgb(100,200,100);
+border: 1px dashed grey;
+padding-left: 12px;
+padding-bottom: 32px;
+padding-right: 12px;
+border-radius: 64px;
+border-color: blue;
+
+}
+
+ p
+ {
+   line-height: 30px;
+   width: auto;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin-bottom: auto;
+   font-family: 'montserrat';
+   font-weight:bold;
+ font-style: normal;
+   line-height: 1.5em;
+    /* border: 1px solid black;
+     margin-left: 20px;
+     padding-left: 12px;
+     padding-bottom: 32px;
+     padding-right: 12px;
+     border-radius: 64px;
+*/
+ }

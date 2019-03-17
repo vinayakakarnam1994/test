@@ -1,0 +1,32 @@
+h1 {
+border-bottom: 2px solid rgb(100,200,100);
+}
+h1 {
+  letter-spacing: 15px;
+}
+h1 {
+border-top: 2px dotted rgb(128,128,128);
+}
+p{
+  line-height:20px;
+  width:100px;
+  margin-left:20%;
+}
+@font-face {
+font-family: 'montserrat';
+src: url('fonts/montserrat-black-webfont.woff')
+format('woff');
+}
+body {
+font-family: 'montserrat';
+}
+h1
+{
+  color:#343477;
+}
+p{
+  color:#AA9E39;
+}
+div{
+  border-color:#AA7A39;
+}
