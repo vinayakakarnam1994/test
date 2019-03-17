@@ -1,0 +1,12 @@
+p{
+  border-style:solid;
+  margin-left: 80px;
+  margin-right: 80px;
+  border: 2px solid blue;
+ border-radius: 15px 15px 15px 15px;
+}
+div {
+  position: absolute;
+  bottom:20px;
+  border-top: 3px solid black;
+}
