@@ -1,0 +1,22 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#132958"/>
+      <stop offset="100%" stop-color="#0A1737"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#253F7F"/>
+      <stop offset="100%" stop-color="#1A2B56"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" fill="url(#bg)"/>
+  <circle cx="450" cy="340" r="145" fill="#E6C7AB"/>
+  <rect x="320" y="470" width="260" height="90" rx="38" fill="#E1BEA0"/>
+  <path d="M180 1100C220 820 320 680 450 680C580 680 680 820 720 1100H180Z" fill="url(#shirt)"/>
+  <rect x="280" y="690" width="340" height="380" rx="60" fill="#203867" opacity="0.65"/>
+  <circle cx="400" cy="320" r="12" fill="#2D2A2A"/>
+  <circle cx="500" cy="320" r="12" fill="#2D2A2A"/>
+  <path d="M400 390C430 420 470 420 500 390" stroke="#9A6E53" stroke-width="10" stroke-linecap="round"/>
+  <path d="M300 250C330 180 390 145 450 145C520 145 585 190 600 270" stroke="#171E2E" stroke-width="58" stroke-linecap="round"/>
+  <text x="450" y="1030" text-anchor="middle" fill="#DDE9FF" font-family="Inter, Arial, sans-serif" font-size="34" opacity="0.82">Professional Portrait Placeholder</text>
+</svg>
